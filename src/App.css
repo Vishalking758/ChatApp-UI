@@ -1,0 +1,12 @@
+::-webkit-scrollbar {
+  display: none;
+}
+.profile-section{display: flex;}
+
+.button{
+  display: flex;
+  flex-direction: row;
+}
+
+
+
